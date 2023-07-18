@@ -9,13 +9,7 @@ Notes-Site
 
 - [jagathishwaran](https://www.github.com/jagathishwaran) 
 
-
-## Demo
-
-Live Demo:
-
-        
-
+  
     
 ## Getting Started
 
